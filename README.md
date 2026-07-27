@@ -52,6 +52,34 @@ This project analyzes customer loan data to identify the key factors influencing
 
 ---
 
+---
+
+# 📊 Project Visualizations
+
+## Correlation Heatmap
+
+This heatmap illustrates the relationships between key financial variables, helping identify factors associated with credit default.
+
+![Correlation Heatmap](Correlation_Heatmap.png)
+
+---
+
+## Loan Amount by Credit Default
+
+This box plot compares the distribution of loan amounts for customers who defaulted versus those who did not.
+
+![Loan Amount Boxplot](Boxplot_LoanAmount_by_CreditDefault.png)
+
+---
+
+## Monthly Income Distribution
+
+This histogram shows how customer monthly income is distributed across the dataset.
+
+![Monthly Income Histogram](Histogram_Monthly_Income.png)
+
+---
+
 ## Repository Contents
 
 | File | Description |
