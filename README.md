@@ -102,4 +102,4 @@ This histogram shows how customer monthly income is distributed across the datas
 
 **Vyomakesh B S**
 
-BBA Graduate | Data Analytics | Python | SQL | Excel
+BBA Graduate | Finance & Data Analytics | Python | SQL | Excel
