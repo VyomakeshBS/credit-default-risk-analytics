@@ -54,7 +54,7 @@ This project analyzes customer loan data to identify the key factors influencing
 
 ---
 
-# 📊 Project Visualizations
+# Project Visualizations
 
 ## Correlation Heatmap
 
